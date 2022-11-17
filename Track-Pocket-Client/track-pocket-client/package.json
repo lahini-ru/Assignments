@@ -29,6 +29,6 @@
     "babel-plugin-import": "^1.6.5",
     "react-app-rewire-less": "^2.1.0",
     "react-app-rewired": "^1.6.2",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^5.0.1"
   }
 }
